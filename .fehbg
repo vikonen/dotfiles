@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --bg-tile '/home/vikonen/kaiki_small2.png' 
